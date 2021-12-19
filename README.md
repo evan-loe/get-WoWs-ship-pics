@@ -9,9 +9,6 @@ python getshippics.py -i for downloading images
 No arguments for just creating the ships.json files with links and ship ids
 
 Dependencies: tqdm, unidecode
-Use:
-  pip install tqdm
-  pip install unidecode
-to install
+To install usuing pip: pip install tqdm unidecode
 
 
