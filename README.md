@@ -5,10 +5,13 @@ simple python script to download all the pictures of the ships from Wargaming's 
 # Usage 
 
 python getshippics.py -h for help command
+
 python getshippics.py -i for downloading images
+
 No arguments for just creating the ships.json files with links and ship ids
 
 Dependencies: tqdm, unidecode
+
 To install usuing pip: pip install tqdm unidecode
 
 
